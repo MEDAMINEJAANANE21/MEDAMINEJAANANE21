@@ -1,7 +1,7 @@
 # Salut, moi c'est Mohamed Amine
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/ElAexh_oy0UAAAAd/hello-yeshellodoghere.gif" alt="Chien qui dit bonjour" width="300" />
+  <img src="https://media1.tenor.com/m/UY_0nvL3aRYAAAAd/oh-hiiii-oh-hi.gif" alt="Bonjour" width="300" />
 </p>
 
 Étudiant en **M1 MIAGE** à l'Université Grenoble Alpes (UGA).
